@@ -9,7 +9,7 @@ The application allows users to search for a city and dynamically displays curre
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** []
+🔗 **Live Demo:** [https://bhagya21-tech.github.io/weather-dashboard/]
 
 🔗 **GitHub Repository:** [https://github.com/bhagya21-tech/weather-dashboard ]
 
