@@ -11,7 +11,7 @@ The application allows users to search for a city and dynamically displays curre
 
 🔗 **Live Demo:** []
 
-🔗 **GitHub Repository:** [ ]
+🔗 **GitHub Repository:** [https://github.com/bhagya21-tech/weather-dashboard ]
 
 ---
 
@@ -455,33 +455,8 @@ The application was tested using different scenarios:
 
 ---
 
-## 📸 Screenshots
 
-### Main Dashboard
 
-Add your screenshot here:
-
-```markdown
-![Weather Dashboard](screenshots/dashboard.png)
-```
-
-### Weather Results
-
-Add another screenshot:
-
-```markdown
-![Weather Results](screenshots/weather-result.png)
-```
-
-### Error Handling
-
-```markdown
-![Error Handling](screenshots/error.png)
-```
-
-> Create a `screenshots` folder in the repository and place your screenshots there.
-
----
 
 ## 📚 Key JavaScript Concepts Demonstrated
 
